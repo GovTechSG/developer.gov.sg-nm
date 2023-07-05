@@ -39,25 +39,26 @@ This is a multi-tenanted Software-as-a-Service (SaaS) based end-to-end CI/CD for
 
 ### Tools in SHIP-HATS
 
-Check out [Tools in SHIP-HATS 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/ship-hats-tools){:target="_blank"} to learn more.
+Check out [Tools in SHIP-HATS 2.0](https://go.gov.sg/ship-hats-tools-assessment){:target="_blank"} to learn more.
 
 ### Technical Documentation
 
 SHIP-HATS 2.0 provides you with the following documentation resources to assist you in onboarding to SHIP-HATS and get started with your CI/CD pipeline: 
 
-- [Getting Started documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/){:target="_blank"}
-- [Portal documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview){:target="_blank"}
-- [Tools documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/){:target="_blank"}
+- [Getting Started documentation](https://go.gov.sg/ship-hats-getting-started){:target="_blank"}
+- [Portal documentation](https://go.gov.sg/ship-hats-portal){:target="_blank"}
+- [Tools documentation](https://go.gov.sg/ship-hats-tools){:target="_blank"}
 - [DevSecOps Playbook](https://docs.developer.tech.gov.sg/docs/devsecops-playbook/#/){:target="_blank"}
-- [SHIP-HATS 1.0 technical documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/){:target="_blank"}
 
 ### What’s New?
 
-SHIP-HATS 2.0 tools are announced! Check out the [migration documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/#/ship-hats-migration-to-2.0){:target="_blank"} for details. 
+Refer to the latest [Roadmap](https://go.gov.sg/ship-hats-roadmap){:target="_blank"} and [What's New in SHIP-HATS](https://go.gov.sg/ship-hats-whats-new){:target="_blank"}.
+
+For any new features requests and suggestions, please add [here](https://tinyurl.com/Sgts-fb){:target="_blank"}.
 
 ### Subscription
 
-Refer to [SHIP-HATS 2.0 Subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscription){:target="_blank"} for details. 
+Refer to [SHIP-HATS 2.0 Subscription](https://go.gov.sg/ship-hats-subscription){:target="_blank"} for details. 
 
 ### Contact Us
 
